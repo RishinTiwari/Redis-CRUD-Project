@@ -1,0 +1,501 @@
+Order_ID,Order_Date,CustomerName,State,City,Amount,Profit,Quantity,Category,Sub_Category
+25601,01-04-2018,Bharat,Gujarat,Ahmedabad,1275.00,-1148.00,7,Furniture,Bookcases
+25602,01-04-2018,Pearl,Maharashtra,Pune,168.00,-111.00,2,Electronics,Phones
+25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,1355.00,-60.00,5,Clothing,Trousers
+25604,03-04-2018,Divsha,Rajasthan,Jaipur,65.00,17.00,2,Clothing,T-shirt
+25605,05-04-2018,Kasheen,West Bengal,Kolkata,75.00,0.00,7,Clothing,Saree
+25606,06-04-2018,Hazel,Karnataka,Bangalore,87.00,4.00,2,Clothing,Shirt
+25607,06-04-2018,Sonakshi,Jammu and Kashmir,Kashmir,50.00,15.00,4,Clothing,Leggings
+25608,08-04-2018,Aarushi,Tamil Nadu,Chennai,1364.00,-1864.00,5,Furniture,Tables
+25609,09-04-2018,Jitesh,Uttar Pradesh,Lucknow,485.00,29.00,4,Electronics,Electronic Games
+25610,09-04-2018,Yogesh,Bihar,Patna,1076.00,-38.00,4,Electronics,Printers
+25611,11-04-2018,Anita,Kerala ,Thiruvananthapuram,160.00,-59.00,2,Clothing,Saree
+25612,12-04-2018,Shrichand,Punjab,Chandigarh,259.00,-55.00,2,Furniture,Chairs
+25613,12-04-2018,Mukesh,Haryana,Chandigarh,1603.00,0.00,9,Clothing,Saree
+25614,13-04-2018,Vandana,Himachal Pradesh,Simla,494.00,54.00,4,Furniture,Bookcases
+25615,15-04-2018,Bhavna,Sikkim,Gangtok,68.00,20.00,5,Clothing,Hankerchief
+25616,15-04-2018,Kanak,Goa,Goa,42.00,12.00,5,Clothing,Hankerchief
+25617,17-04-2018,Sagar,Nagaland,Kohima,305.00,-270.00,5,Electronics,Electronic Games
+25618,18-04-2018,Manju,Andhra Pradesh,Hyderabad,362.00,127.00,1,Furniture,Bookcases
+25619,18-04-2018,Ramesh,Gujarat,Ahmedabad,353.00,90.00,8,Clothing,Saree
+25620,20-04-2018,Sarita,Maharashtra,Pune,193.00,46.00,1,Electronics,Printers
+25621,20-04-2018,Deepak,Madhya Pradesh,Bhopal,233.00,-10.00,5,Electronics,Electronic Games
+25622,22-04-2018,Monisha,Rajasthan,Jaipur,534.00,0.00,3,Clothing,Saree
+25623,22-04-2018,Atharv,West Bengal,Kolkata,53.00,1.00,4,Clothing,Stole
+25624,22-04-2018,Vini,Karnataka,Bangalore,26.00,12.00,3,Clothing,Hankerchief
+25625,23-04-2018,Pinky,Jammu and Kashmir,Kashmir,97.00,29.00,2,Clothing,Hankerchief
+25626,23-04-2018,Bhishm,Maharashtra,Mumbai,46.00,-14.00,1,Electronics,Phones
+25627,23-04-2018,Hitika,Madhya Pradesh,Indore,55.00,-39.00,4,Clothing,Stole
+25628,24-04-2018,Pooja,Bihar,Patna,45.00,13.00,4,Clothing,Skirt
+25629,24-04-2018,Hemant,Kerala ,Thiruvananthapuram,1560.00,421.00,3,Clothing,Trousers
+25630,24-04-2018,Sahil,Punjab,Chandigarh,133.00,12.00,5,Clothing,Stole
+25631,24-04-2018,Ritu,Haryana,Chandigarh,89.00,-89.00,2,Furniture,Furnishings
+25632,25-04-2018,Manish,Himachal Pradesh,Simla,19.00,-2.00,2,Clothing,Leggings
+25633,26-04-2018,Amit,Sikkim,Gangtok,249.00,-130.00,4,Electronics,Phones
+25634,26-04-2018,Sanjay,Goa,Goa,389.00,-83.00,3,Furniture,Chairs
+25635,26-04-2018,Nidhi,Nagaland,Kohima,40.00,16.00,3,Clothing,Hankerchief
+25636,26-04-2018,Nishi,Maharashtra,Mumbai,637.00,113.00,5,Clothing,Saree
+25637,26-04-2018,Ashmi,Madhya Pradesh,Indore,117.00,14.00,3,Clothing,Shirt
+25638,26-04-2018,Parth,Maharashtra,Pune,182.00,-11.00,3,Furniture,Bookcases
+25639,27-04-2018,Lisha,Madhya Pradesh,Bhopal,1629.00,-153.00,3,Electronics,Phones
+25640,27-04-2018,Paridhi,Rajasthan,Jaipur,68.00,-62.00,2,Clothing,Trousers
+25641,27-04-2018,Parishi,West Bengal,Kolkata,22.00,-6.00,1,Furniture,Furnishings
+25642,28-04-2018,Ajay,Karnataka,Bangalore,434.00,26.00,11,Clothing,Shirt
+25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,1061.00,-36.00,8,Furniture,Bookcases
+25644,30-04-2018,Mayank,Maharashtra,Mumbai,76.00,-92.00,8,Furniture,Furnishings
+25645,01-05-2018,Yaanvi,Madhya Pradesh,Indore,273.00,-87.00,4,Electronics,Phones
+25646,01-05-2018,Sonal,Bihar,Patna,20.00,-8.00,2,Clothing,Saree
+25647,03-05-2018,Sharda,Kerala ,Thiruvananthapuram,42.00,-6.00,4,Clothing,Saree
+25648,04-05-2018,Aditya,Punjab,Chandigarh,100.00,-23.00,1,Electronics,Phones
+25649,05-05-2018,Rachna,Haryana,Chandigarh,27.00,-25.00,2,Clothing,Stole
+25650,06-05-2018,Chirag,Maharashtra,Mumbai,245.00,-78.00,2,Electronics,Printers
+25651,07-05-2018,Anurag,Madhya Pradesh,Indore,200.00,-60.00,4,Furniture,Bookcases
+25652,08-05-2018,Tushina,Goa,Goa,24.00,-21.00,7,Clothing,Skirt
+25653,08-05-2018,Farah,Nagaland,Kohima,1279.00,-640.00,8,Electronics,Printers
+25654,10-05-2018,Sabah,Maharashtra,Mumbai,34.00,12.00,3,Clothing,Hankerchief
+25655,11-05-2018,Nida,Madhya Pradesh,Indore,44.00,-26.00,3,Clothing,Hankerchief
+25656,11-05-2018,Priyanka,Maharashtra,Pune,534.00,0.00,3,Clothing,Saree
+25657,13-05-2018,Tulika,Madhya Pradesh,Bhopal,1021.00,-48.00,4,Electronics,Electronic Games
+25658,14-05-2018,Shefali,Rajasthan,Jaipur,27.00,9.00,2,Clothing,T-shirt
+25659,15-05-2018,Sanskriti,West Bengal,Kolkata,148.00,72.00,7,Clothing,T-shirt
+25660,16-05-2018,Shruti,Karnataka,Bangalore,245.00,-78.00,3,Clothing,Saree
+25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,19.00,-15.00,3,Clothing,Hankerchief
+25662,17-05-2018,Sweta,Maharashtra,Mumbai,24.00,-2.00,2,Clothing,T-shirt
+25663,19-05-2018,Pournamasi,Madhya Pradesh,Indore,294.00,138.00,2,Electronics,Printers
+25664,20-05-2018,Pratyusmita,Bihar,Patna,444.00,-200.00,4,Electronics,Phones
+25665,21-05-2018,Chayanika,Kerala ,Thiruvananthapuram,166.00,-113.00,4,Electronics,Accessories
+25666,22-05-2018,Tanvi,Punjab,Chandigarh,934.00,-916.00,7,Electronics,Electronic Games
+25667,23-05-2018,Anjali,Haryana,Chandigarh,11.00,-2.00,4,Clothing,Hankerchief
+25668,24-05-2018,Rhea,Himachal Pradesh,Simla,123.00,17.00,3,Furniture,Furnishings
+25669,25-05-2018,Piyali,Sikkim,Gangtok,610.00,-66.00,2,Furniture,Tables
+25670,25-05-2018,Charika,Goa,Goa,74.00,29.00,3,Clothing,Stole
+25671,27-05-2018,Mitali,Nagaland,Kohima,832.00,0.00,3,Clothing,Trousers
+25672,28-05-2018,Akanksha,Andhra Pradesh,Hyderabad,27.00,-15.00,1,Clothing,Stole
+25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,143.00,-124.00,5,Clothing,Saree
+25674,28-05-2018,Mahima,Maharashtra,Pune,17.00,-12.00,5,Clothing,Skirt
+25675,31-05-2018,Shreya,Madhya Pradesh,Bhopal,929.00,-93.00,9,Clothing,Saree
+25676,01-06-2018,Chandni,Rajasthan,Jaipur,342.00,-103.00,4,Electronics,Electronic Games
+25677,02-06-2018,Ekta,West Bengal,Kolkata,20.00,-2.00,1,Electronics,Accessories
+25678,03-06-2018,Bathina,Karnataka,Bangalore,64.00,-7.00,3,Clothing,Saree
+25679,04-06-2018,Avni,Maharashtra,Mumbai,76.00,-50.00,1,Clothing,Saree
+25680,04-06-2018,Aayushi,Madhya Pradesh,Indore,73.00,-25.00,3,Clothing,Saree
+25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,68.00,-27.00,3,Electronics,Accessories
+25682,07-06-2018,Krutika,Bihar,Patna,545.00,-73.00,11,Electronics,Phones
+25683,08-06-2018,Shreya,Kerala ,Thiruvananthapuram,433.00,26.00,3,Electronics,Printers
+25684,09-06-2018,Samiksha,Maharashtra,Mumbai,134.00,42.00,2,Furniture,Chairs
+25685,10-06-2018,Sheetal,Madhya Pradesh,Indore,51.00,7.00,2,Furniture,Furnishings
+25686,11-06-2018,Pooja,Himachal Pradesh,Simla,381.00,-13.00,2,Clothing,Saree
+25687,11-06-2018,Sanjna,Maharashtra,Mumbai,17.00,6.00,1,Clothing,Stole
+25688,11-06-2018,Swetha,Madhya Pradesh,Indore,352.00,-345.00,5,Clothing,Saree
+25689,14-06-2018,Bhaggyasree,Maharashtra,Mumbai,469.00,-459.00,3,Electronics,Electronic Games
+25690,15-06-2018,Gunjan,Madhya Pradesh,Indore,31.00,10.00,3,Clothing,Skirt
+25691,16-06-2018,Akancha,Maharashtra,Mumbai,714.00,56.00,4,Clothing,Saree
+25692,17-06-2018,Rashmi,Madhya Pradesh,Indore,141.00,28.00,7,Furniture,Furnishings
+25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,76.00,-72.00,9,Clothing,Hankerchief
+25694,18-06-2018,Subhasmita,Rajasthan,Jaipur,167.00,43.00,7,Clothing,T-shirt
+25695,18-06-2018,Suhani,West Bengal,Kolkata,171.00,14.00,9,Clothing,Shirt
+25696,21-06-2018,Noopur,Karnataka,Bangalore,117.00,-6.00,3,Electronics,Phones
+25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,114.00,8.00,3,Electronics,Accessories
+25698,23-06-2018,Amisha,Tamil Nadu,Chennai,87.00,-83.00,5,Clothing,Kurti
+25699,24-06-2018,Kritika,Uttar Pradesh,Lucknow,20.00,-22.00,1,Furniture,Furnishings
+25700,25-06-2018,Shubhi,Maharashtra,Mumbai,129.00,-75.00,5,Clothing,Shirt
+25701,26-06-2018,Maithilee,Madhya Pradesh,Indore,10.00,-8.00,2,Clothing,Skirt
+25702,27-06-2018,Shaily,Maharashtra,Mumbai,75.00,0.00,3,Clothing,Shirt
+25703,28-06-2018,Ekta,Madhya Pradesh,Indore,42.00,-23.00,2,Furniture,Furnishings
+25704,29-06-2018,Riya,Maharashtra,Mumbai,126.00,-63.00,3,Electronics,Accessories
+25705,30-06-2018,Shweta,Madhya Pradesh,Indore,46.00,0.00,2,Electronics,Electronic Games
+25706,01-07-2018,Swetlana,Goa,Goa,31.00,-11.00,4,Clothing,Stole
+25707,01-07-2018,Shivani,Maharashtra,Mumbai,8.00,-6.00,1,Clothing,Stole
+25708,01-07-2018,Kishwar,Madhya Pradesh,Indore,191.00,13.00,8,Furniture,Furnishings
+25709,01-07-2018,Aakanksha,Madhya Pradesh,Indore,33.00,-12.00,7,Clothing,Saree
+25710,05-07-2018,Megha,Maharashtra,Pune,216.00,-38.00,6,Furniture,Furnishings
+25711,06-07-2018,Sakshi,Madhya Pradesh,Bhopal,100.00,-58.00,4,Clothing,Hankerchief
+25712,07-07-2018,Adhvaita,Rajasthan,Jaipur,193.00,-275.00,3,Electronics,Phones
+25713,08-07-2018,Raksha,West Bengal,Kolkata,158.00,-63.00,4,Furniture,Chairs
+25714,09-07-2018,Stuti,Karnataka,Bangalore,11.00,-5.00,2,Clothing,Hankerchief
+25715,10-07-2018,Srishti,Jammu and Kashmir,Kashmir,416.00,137.00,3,Electronics,Phones
+25716,11-07-2018,Surabhi,Tamil Nadu,Chennai,58.00,0.00,4,Clothing,Saree
+25717,12-07-2018,Manshul,Uttar Pradesh,Lucknow,561.00,212.00,3,Clothing,Saree
+25718,12-07-2018,Anjali,Maharashtra,Mumbai,371.00,115.00,1,Furniture,Bookcases
+25719,12-07-2018,Rashmi,Madhya Pradesh,Indore,29.00,10.00,2,Clothing,Stole
+25720,15-07-2018,Namrata,Punjab,Chandigarh,30.00,-35.00,1,Furniture,Chairs
+25721,16-07-2018,Anchal,Haryana,Chandigarh,29.00,-18.00,7,Clothing,Skirt
+25722,17-07-2018,Inderpreet,Himachal Pradesh,Simla,48.00,-8.00,8,Clothing,Stole
+25723,18-07-2018,Wale,Maharashtra,Mumbai,26.00,-24.00,1,Clothing,Stole
+25724,19-07-2018,Sheetal,Madhya Pradesh,Indore,168.00,-51.00,2,Furniture,Bookcases
+25725,20-07-2018,Anisha,Nagaland,Kohima,23.00,-5.00,7,Clothing,Hankerchief
+25726,21-07-2018,Kiran,Maharashtra,Mumbai,490.00,-128.00,8,Furniture,Bookcases
+25727,22-07-2018,Turumella,Madhya Pradesh,Indore,57.00,-48.00,6,Clothing,Leggings
+25728,22-07-2018,Ameesha,Maharashtra,Pune,1055.00,264.00,4,Electronics,Printers
+25729,22-07-2018,Madhulika,Madhya Pradesh,Bhopal,1549.00,-439.00,4,Electronics,Phones
+25730,22-07-2018,Rishabh,Rajasthan,Jaipur,1145.00,-706.00,3,Electronics,Phones
+25731,26-07-2018,Akash,West Bengal,Kolkata,131.00,-154.00,8,Furniture,Furnishings
+25732,27-07-2018,Anubhaw,Karnataka,Bangalore,16.00,-5.00,2,Clothing,Stole
+25733,28-07-2018,Dhirajendu,Maharashtra,Mumbai,43.00,-43.00,7,Clothing,Stole
+25734,29-07-2018,Pranav,Madhya Pradesh,Indore,108.00,-19.00,3,Electronics,Electronic Games
+25735,30-07-2018,Arindam,Uttar Pradesh,Lucknow,12.00,-2.00,3,Clothing,Hankerchief
+25736,31-07-2018,Akshat,Maharashtra,Mumbai,31.00,-7.00,5,Clothing,Skirt
+25737,01-08-2018,Shubham,Madhya Pradesh,Indore,187.00,-15.00,3,Clothing,Trousers
+25738,02-08-2018,Ayush,Punjab,Chandigarh,70.00,-14.00,2,Furniture,Furnishings
+25739,03-08-2018,Daksh,Haryana,Chandigarh,133.00,-56.00,2,Furniture,Chairs
+25740,03-08-2018,Rane,Maharashtra,Mumbai,40.00,-37.00,3,Clothing,Stole
+25741,03-08-2018,Navdeep,Madhya Pradesh,Indore,482.00,-6.00,7,Electronics,Electronic Games
+25742,03-08-2018,Ashwin,Goa,Goa,11.00,-8.00,2,Clothing,Skirt
+25743,07-08-2018,Aman,Nagaland,Kohima,143.00,-124.00,5,Clothing,Saree
+25744,08-08-2018,Devendra,Andhra Pradesh,Hyderabad,373.00,-254.00,6,Electronics,Printers
+25745,09-08-2018,Kartik,Gujarat,Ahmedabad,44.00,-8.00,3,Clothing,Stole
+25746,10-08-2018,Shivam,Maharashtra,Pune,87.00,16.00,2,Clothing,Saree
+25747,11-08-2018,Harsh,Madhya Pradesh,Bhopal,877.00,395.00,2,Furniture,Bookcases
+25748,12-08-2018,Nitant,Rajasthan,Jaipur,141.00,10.00,4,Clothing,Shirt
+25749,13-08-2018,Ayush,Maharashtra,Mumbai,1052.00,-82.00,3,Furniture,Bookcases
+25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,212.00,-24.00,2,Furniture,Chairs
+25751,14-08-2018,Nishant,Maharashtra,Mumbai,10.00,-8.00,1,Clothing,Kurti
+25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,1361.00,197.00,9,Furniture,Bookcases
+25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,62.00,-56.00,5,Clothing,Kurti
+25754,18-08-2018,Akshay,Bihar,Patna,72.00,-46.00,7,Clothing,Kurti
+25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,37.00,-53.00,3,Clothing,Saree
+25756,20-08-2018,Mohan,Maharashtra,Mumbai,465.00,-33.00,4,Electronics,Phones
+25757,21-08-2018,Mohit,Madhya Pradesh,Indore,17.00,-13.00,4,Clothing,Skirt
+25758,22-08-2018,Shubham,Himachal Pradesh,Simla,8.00,-2.00,1,Clothing,Stole
+25759,23-08-2018,Soumya,Sikkim,Gangtok,20.00,-9.00,6,Clothing,Hankerchief
+25760,24-08-2018,Pooja,Goa,Goa,322.00,-193.00,5,Electronics,Printers
+25761,25-08-2018,Surabhi,Maharashtra,Mumbai,2188.00,1050.00,5,Furniture,Bookcases
+25762,26-08-2018,Anudeep,Madhya Pradesh,Indore,1316.00,-527.00,7,Electronics,Electronic Games
+25763,27-08-2018,Noshiba,Gujarat,Ahmedabad,58.00,-52.00,3,Furniture,Chairs
+25764,28-08-2018,Sanjova,Maharashtra,Pune,119.00,43.00,5,Clothing,T-shirt
+25765,29-08-2018,Meghana,Madhya Pradesh,Bhopal,139.00,14.00,3,Clothing,Stole
+25766,30-08-2018,Surabhi,Rajasthan,Jaipur,220.00,-19.00,2,Clothing,Saree
+25767,31-08-2018,Ashmeet,West Bengal,Kolkata,299.00,-28.00,3,Electronics,Electronic Games
+25768,01-09-2018,Shreyoshe,Karnataka,Bangalore,1582.00,-443.00,6,Clothing,Trousers
+25769,02-09-2018,Surbhi,Maharashtra,Mumbai,355.00,-4.00,2,Clothing,Saree
+25770,02-09-2018,Sakshi,Madhya Pradesh,Indore,375.00,180.00,3,Furniture,Bookcases
+25771,02-09-2018,Vaibhavi,Uttar Pradesh,Lucknow,148.00,59.00,3,Clothing,Hankerchief
+25772,02-09-2018,Sanjana,Bihar,Patna,1183.00,106.00,4,Electronics,Printers
+25773,06-09-2018,Shreya,Kerala ,Thiruvananthapuram,248.00,-70.00,3,Furniture,Chairs
+25774,07-09-2018,Snehal,Punjab,Chandigarh,38.00,-6.00,2,Furniture,Furnishings
+25775,08-09-2018,Duhita,Haryana,Chandigarh,50.00,-17.00,2,Clothing,Stole
+25776,09-09-2018,Mousam,Maharashtra,Mumbai,47.00,-20.00,2,Clothing,Kurti
+25777,10-09-2018,Aditi,Madhya Pradesh,Indore,61.00,-25.00,4,Electronics,Accessories
+25778,11-09-2018,Surabhi,Maharashtra,Mumbai,1506.00,-266.00,6,Electronics,Printers
+25779,12-09-2018,Savi,Madhya Pradesh,Indore,1361.00,-980.00,3,Furniture,Tables
+25780,13-09-2018,Teena,Andhra Pradesh,Hyderabad,137.00,-41.00,3,Electronics,Phones
+25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,60.00,-49.00,8,Clothing,Hankerchief
+25782,15-09-2018,Aayushi,Maharashtra,Mumbai,335.00,-22.00,7,Furniture,Chairs
+25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,25.00,-11.00,1,Clothing,Stole
+25784,15-09-2018,Rohit,Rajasthan,Jaipur,15.00,4.00,1,Clothing,Hankerchief
+25785,15-09-2018,Ayush,West Bengal,Kolkata,595.00,292.00,3,Clothing,Saree
+25786,19-09-2018,Abhishek,Karnataka,Bangalore,1854.00,433.00,5,Furniture,Bookcases
+25787,20-09-2018,Asish,Jammu and Kashmir,Kashmir,556.00,-209.00,7,Clothing,Saree
+25788,21-09-2018,Dinesh,Tamil Nadu,Chennai,12.00,3.00,1,Clothing,Stole
+25789,22-09-2018,Akshay,Uttar Pradesh,Lucknow,30.00,0.00,1,Clothing,Kurti
+25790,23-09-2018,Sajal,Bihar,Patna,42.00,-3.00,1,Electronics,Electronic Games
+25791,24-09-2018,Avish,Kerala ,Thiruvananthapuram,253.00,-63.00,2,Clothing,Saree
+25792,24-09-2018,Abhishek,Maharashtra,Mumbai,74.00,-25.00,3,Clothing,Stole
+25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,40.00,-33.00,5,Clothing,Hankerchief
+25794,24-09-2018,Aditya,Himachal Pradesh,Simla,176.00,37.00,6,Electronics,Accessories
+25795,24-09-2018,Sukant,Sikkim,Gangtok,276.00,-21.00,2,Electronics,Phones
+25796,24-09-2018,Sukrith,Maharashtra,Mumbai,37.00,-6.00,1,Clothing,Saree
+25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,976.00,293.00,4,Electronics,Accessories
+25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,379.00,63.00,2,Clothing,Saree
+25799,01-10-2018,Divyansh,Gujarat,Ahmedabad,205.00,-119.00,3,Clothing,Saree
+25800,01-10-2018,Ishit,Maharashtra,Pune,122.00,-66.00,9,Electronics,Accessories
+25801,01-10-2018,Aryan,Madhya Pradesh,Bhopal,64.00,6.00,4,Clothing,Saree
+25802,05-10-2018,Yash,Maharashtra,Mumbai,27.00,-7.00,5,Clothing,Saree
+25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,106.00,12.00,3,Clothing,Trousers
+25804,05-10-2018,Sudheer,Karnataka,Bangalore,156.00,36.00,5,Clothing,T-shirt
+25805,05-10-2018,Ankit,Maharashtra,Mumbai,112.00,15.00,2,Furniture,Chairs
+25806,06-10-2018,Dhanraj,Madhya Pradesh,Indore,632.00,-114.00,4,Furniture,Tables
+25807,07-10-2018,Vipul,Uttar Pradesh,Lucknow,16.00,6.00,1,Clothing,Stole
+25808,08-10-2018,Apsingekar,Bihar,Patna,63.00,17.00,6,Clothing,Leggings
+25809,09-10-2018,Suman,Kerala ,Thiruvananthapuram,154.00,54.00,3,Clothing,Hankerchief
+25810,10-10-2018,Nripraj,Punjab,Chandigarh,26.00,10.00,4,Clothing,Hankerchief
+25811,10-10-2018,Utsav,Maharashtra,Mumbai,126.00,52.00,4,Clothing,Hankerchief
+25812,10-10-2018,Kshitij,Madhya Pradesh,Indore,259.00,47.00,5,Clothing,Hankerchief
+25813,10-10-2018,Hrisheekesh,Maharashtra,Mumbai,911.00,202.00,7,Furniture,Chairs
+25814,10-10-2018,Swapnil,Madhya Pradesh,Indore,118.00,35.00,7,Clothing,T-shirt
+25815,10-10-2018,Harsh,Nagaland,Kohima,35.00,14.00,2,Clothing,Stole
+25816,12-10-2018,Mane,Andhra Pradesh,Hyderabad,391.00,113.00,8,Clothing,Stole
+25817,13-10-2018,Praneet,Maharashtra,Mumbai,743.00,89.00,5,Electronics,Printers
+25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,75.00,28.00,9,Clothing,Hankerchief
+25819,15-10-2018,Ankur,Madhya Pradesh,Bhopal,417.00,49.00,3,Electronics,Electronic Games
+25820,16-10-2018,Dheeraj,Rajasthan,Jaipur,119.00,1.00,1,Furniture,Chairs
+25821,16-10-2018,Ajay,West Bengal,Kolkata,60.00,21.00,4,Clothing,Stole
+25822,18-10-2018,Tejas,Karnataka,Bangalore,34.00,13.00,2,Clothing,Saree
+25823,18-10-2018,Rohan,Maharashtra,Mumbai,2103.00,322.00,8,Electronics,Electronic Games
+25824,20-10-2018,Shyam,Madhya Pradesh,Indore,101.00,38.00,2,Furniture,Furnishings
+25825,21-10-2018,Kartik,Madhya Pradesh,Indore,911.00,355.00,5,Electronics,Phones
+25826,22-10-2018,Tanushree,Maharashtra,Mumbai,637.00,261.00,2,Electronics,Printers
+25827,23-10-2018,Sheetal,Madhya Pradesh,Indore,156.00,21.00,3,Furniture,Chairs
+25828,24-10-2018,Nikita,Punjab,Chandigarh,537.00,107.00,3,Clothing,Saree
+25829,25-10-2018,Apoorva,Haryana,Chandigarh,345.00,38.00,7,Clothing,Hankerchief
+25830,26-10-2018,Aastha,Himachal Pradesh,Simla,41.00,11.00,6,Clothing,Hankerchief
+25831,27-10-2018,Mahima,Sikkim,Gangtok,693.00,254.00,6,Clothing,Saree
+25832,28-10-2018,Harshita,Maharashtra,Mumbai,504.00,116.00,3,Furniture,Bookcases
+25833,29-10-2018,Krishna,Madhya Pradesh,Indore,64.00,27.00,5,Clothing,Hankerchief
+25834,29-10-2018,Ananya,Andhra Pradesh,Hyderabad,16.00,5.00,1,Clothing,Stole
+25835,29-10-2018,Moumita,Gujarat,Ahmedabad,52.00,11.00,5,Clothing,Leggings
+25836,29-10-2018,Arti,Maharashtra,Pune,1298.00,65.00,9,Electronics,Printers
+25837,29-10-2018,Palak,Maharashtra,Mumbai,263.00,50.00,5,Clothing,Stole
+25838,29-10-2018,Sanjana,Madhya Pradesh,Indore,70.00,26.00,5,Clothing,Hankerchief
+25839,30-10-2018,Pranjali,West Bengal,Kolkata,1250.00,486.00,7,Clothing,Saree
+25840,31-10-2018,Sneha,Karnataka,Bangalore,246.00,61.00,2,Furniture,Bookcases
+25841,01-11-2018,Ashvini,Maharashtra,Mumbai,22.00,11.00,2,Clothing,Skirt
+25842,02-11-2018,Sheetal,Madhya Pradesh,Indore,1543.00,370.00,8,Electronics,Printers
+25843,03-11-2018,Mrunal,Maharashtra,Mumbai,50.00,7.00,6,Clothing,Skirt
+25844,03-11-2018,Swati,Madhya Pradesh,Indore,86.00,8.00,2,Clothing,Saree
+25845,03-11-2018,Snel,Kerala ,Thiruvananthapuram,274.00,-7.00,4,Electronics,Phones
+25846,03-11-2018,Soodesh,Punjab,Chandigarh,94.00,7.00,7,Clothing,Leggings
+25847,03-11-2018,Aniket,Haryana,Chandigarh,643.00,225.00,2,Electronics,Printers
+25848,03-11-2018,Rohan,Himachal Pradesh,Simla,147.00,21.00,3,Furniture,Furnishings
+25849,04-11-2018,K,Sikkim,Gangtok,336.00,123.00,3,Electronics,Phones
+25850,05-11-2018,Abhishek,Goa,Goa,45.00,1.00,3,Clothing,T-shirt
+25851,06-11-2018,Kushal,Nagaland,Kohima,10.00,2.00,2,Clothing,Hankerchief
+25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,320.00,144.00,1,Electronics,Printers
+25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,39.00,16.00,6,Clothing,Skirt
+25854,08-11-2018,Shubham,Maharashtra,Pune,149.00,48.00,6,Clothing,Stole
+25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,829.00,19.00,4,Electronics,Printers
+25856,10-11-2018,Abhijeet,Maharashtra,Mumbai,74.00,29.00,3,Clothing,Stole
+25857,10-11-2018,Anand,Madhya Pradesh,Indore,324.00,39.00,8,Electronics,Accessories
+25858,13-11-2018,Swapnil,Maharashtra,Mumbai,22.00,8.00,3,Clothing,Hankerchief
+25859,14-11-2018,Chikku,Madhya Pradesh,Indore,724.00,253.00,2,Furniture,Bookcases
+25860,15-11-2018,Akshay,Tamil Nadu,Chennai,112.00,24.00,3,Clothing,Kurti
+25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,128.00,4.00,3,Clothing,Saree
+25862,15-11-2018,Amol,Bihar,Patna,2061.00,701.00,5,Furniture,Bookcases
+25863,15-11-2018,Manibalan,Kerala ,Thiruvananthapuram,189.00,87.00,7,Clothing,Stole
+25864,15-11-2018,Aromal,Maharashtra,Mumbai,100.00,6.00,4,Clothing,Stole
+25865,15-11-2018,Arun,Madhya Pradesh,Indore,85.00,-1.00,3,Clothing,Saree
+25866,16-11-2018,Komal,Himachal Pradesh,Simla,51.00,14.00,2,Clothing,Stole
+25867,17-11-2018,Ankit,Sikkim,Gangtok,31.00,14.00,3,Clothing,Stole
+25868,18-11-2018,Vikash,Goa,Goa,170.00,73.00,2,Electronics,Accessories
+25869,19-11-2018,Parakh,Nagaland,Kohima,86.00,9.00,3,Clothing,Saree
+25870,20-11-2018,Pranav,Andhra Pradesh,Hyderabad,10.00,4.00,1,Clothing,Kurti
+25871,21-11-2018,Gunjal,Gujarat,Surat,118.00,25.00,4,Clothing,Hankerchief
+25872,22-11-2018,Saurabh,Maharashtra,Mumbai,57.00,27.00,2,Clothing,Shirt
+25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,66.00,12.00,3,Clothing,Stole
+25874,24-11-2018,Megha,Rajasthan,Udaipur,124.00,54.00,5,Clothing,T-shirt
+25875,24-11-2018,Divyeshkumar,Uttar Pradesh,Allahabad,248.00,8.00,2,Clothing,Saree
+25876,24-11-2018,Bhosale,Punjab,Amritsar,282.00,14.00,4,Clothing,Trousers
+25877,24-11-2018,Dashyam,Gujarat,Surat,1137.00,568.00,2,Clothing,Trousers
+25878,24-11-2018,Mrinal,Maharashtra,Mumbai,165.00,46.00,3,Furniture,Furnishings
+25879,24-11-2018,Siddharth,Madhya Pradesh,Indore,57.00,28.00,2,Clothing,Kurti
+25880,24-11-2018,Apoorv,Rajasthan,Udaipur,108.00,37.00,2,Clothing,Stole
+25881,25-11-2018,Pooja,Uttar Pradesh,Allahabad,37.00,3.00,3,Clothing,Hankerchief
+25882,26-11-2018,Masurkar,Punjab,Amritsar,121.00,19.00,4,Clothing,Stole
+25883,27-11-2018,Saptadeep,Gujarat,Surat,146.00,42.00,5,Clothing,Hankerchief
+25884,28-11-2018,Sumeet,Maharashtra,Mumbai,24.00,2.00,4,Clothing,Hankerchief
+25885,28-11-2018,Shatayu,Madhya Pradesh,Indore,94.00,27.00,2,Clothing,Shirt
+25886,28-11-2018,Brijesh,Rajasthan,Udaipur,89.00,17.00,2,Clothing,Stole
+25887,01-12-2018,Vedant,Uttar Pradesh,Allahabad,83.00,6.00,6,Clothing,Shirt
+25888,02-12-2018,Rohan,Punjab,Amritsar,18.00,2.00,3,Clothing,Hankerchief
+25889,03-12-2018,Abhishek,Gujarat,Surat,31.00,10.00,1,Clothing,Kurti
+25890,04-12-2018,Divyansha,Maharashtra,Mumbai,465.00,207.00,9,Clothing,Saree
+25891,04-12-2018,Shivani,Madhya Pradesh,Indore,25.00,2.00,2,Clothing,Hankerchief
+25892,04-12-2018,Aditi,Rajasthan,Udaipur,139.00,30.00,3,Clothing,Shirt
+25893,04-12-2018,Aashna,Uttar Pradesh,Allahabad,355.00,114.00,7,Clothing,Stole
+25894,04-12-2018,Monu,Punjab,Amritsar,1246.00,62.00,3,Furniture,Bookcases
+25895,04-12-2018,Sathya,Gujarat,Surat,388.00,93.00,2,Furniture,Bookcases
+25896,05-12-2018,Aman,Maharashtra,Mumbai,31.00,11.00,3,Clothing,Skirt
+25897,06-12-2018,Rohan,Madhya Pradesh,Indore,43.00,5.00,3,Clothing,Stole
+25898,07-12-2018,Abhishek,Rajasthan,Udaipur,33.00,13.00,3,Clothing,Leggings
+25899,08-12-2018,Aishwarya,Uttar Pradesh,Allahabad,22.00,9.00,2,Clothing,Leggings
+25900,09-12-2018,Anand,Punjab,Amritsar,15.00,2.00,1,Clothing,Leggings
+25901,10-12-2018,Suraj,Gujarat,Surat,158.00,38.00,3,Clothing,Hankerchief
+25902,10-12-2018,Ishpreet,Maharashtra,Mumbai,79.00,6.00,7,Clothing,Saree
+25903,10-12-2018,Amlan,Madhya Pradesh,Indore,455.00,77.00,8,Electronics,Accessories
+25904,10-12-2018,Swapnil,Delhi,Delhi,871.00,131.00,2,Furniture,Bookcases
+25905,11-12-2018,Bhargav,Madhya Pradesh,Delhi,152.00,50.00,6,Clothing,Stole
+25906,11-12-2018,Abhijit,Delhi,Delhi,78.00,27.00,3,Clothing,Stole
+25907,11-12-2018,Jaydeep,Madhya Pradesh,Bhopal,30.00,11.00,5,Clothing,Hankerchief
+25908,12-12-2018,Pradeep,Delhi,Delhi,179.00,25.00,5,Clothing,Kurti
+25909,13-12-2018,Sujay,Madhya Pradesh,Delhi,168.00,56.00,3,Clothing,Saree
+25910,14-12-2018,Jay,Delhi,Delhi,125.00,15.00,5,Clothing,Shirt
+25911,15-12-2018,Phalguni,Madhya Pradesh,Bhopal,40.00,15.00,1,Clothing,Kurti
+25912,16-12-2018,Preksha,Delhi,Delhi,102.00,11.00,6,Clothing,T-shirt
+25913,17-12-2018,Geetanjali,Madhya Pradesh,Delhi,103.00,21.00,7,Clothing,Stole
+25914,18-12-2018,Kajal,Delhi,Delhi,460.00,143.00,3,Furniture,Chairs
+25915,19-12-2018,Sukruta,Punjab,Amritsar,277.00,3.00,1,Electronics,Electronic Games
+25916,20-12-2018,Utkarsh,Gujarat,Surat,80.00,26.00,9,Clothing,Skirt
+25917,21-12-2018,Sanjay,Maharashtra,Mumbai,100.00,12.00,2,Clothing,T-shirt
+25918,22-12-2018,Karandeep,Madhya Pradesh,Indore,244.00,122.00,5,Furniture,Furnishings
+25919,23-12-2018,Neha,Rajasthan,Udaipur,28.00,4.00,1,Clothing,T-shirt
+25920,24-12-2018,Jayanti,Uttar Pradesh,Allahabad,100.00,7.00,2,Clothing,T-shirt
+25921,25-12-2018,Sandra,Punjab,Amritsar,170.00,19.00,5,Clothing,T-shirt
+25922,26-12-2018,Akshata,Gujarat,Surat,52.00,18.00,2,Clothing,Stole
+25923,27-12-2018,Vishakha,Maharashtra,Mumbai,226.00,58.00,3,Electronics,Accessories
+25924,28-12-2018,Prajakta,Karnataka,Bangalore,148.00,54.00,2,Furniture,Chairs
+25925,29-12-2018,Shruti,Maharashtra,Mumbai,27.00,12.00,1,Clothing,Stole
+25926,30-12-2018,Dipali,Madhya Pradesh,Indore,57.00,6.00,5,Clothing,Leggings
+25927,31-12-2018,Shreya,Uttar Pradesh,Lucknow,200.00,7.00,4,Electronics,Electronic Games
+25928,01-01-2019,Smriti,Bihar,Patna,25.00,10.00,1,Furniture,Furnishings
+25929,02-01-2019,Girase,Kerala ,Thiruvananthapuram,1308.00,536.00,3,Furniture,Bookcases
+25930,03-01-2019,Monica,Punjab,Chandigarh,40.00,13.00,3,Clothing,T-shirt
+25931,04-01-2019,Sidharth,Maharashtra,Mumbai,73.00,-36.00,3,Furniture,Chairs
+25932,04-01-2019,Bhutekar,Madhya Pradesh,Indore,71.00,-14.00,4,Furniture,Furnishings
+25933,04-01-2019,Shikhar,Maharashtra,Mumbai,81.00,-44.00,3,Clothing,Stole
+25934,04-01-2019,Rahul,Madhya Pradesh,Indore,105.00,33.00,6,Clothing,Saree
+25935,04-01-2019,Sudhir,Nagaland,Kohima,162.00,20.00,3,Furniture,Chairs
+25936,05-01-2019,Nikhil,Punjab,Chandigarh,61.00,25.00,4,Clothing,Saree
+25937,05-01-2019,Ankit,Haryana,Chandigarh,1101.00,352.00,3,Furniture,Bookcases
+25938,05-01-2019,Shikhar,Himachal Pradesh,Simla,61.00,1.00,2,Furniture,Furnishings
+25939,05-01-2019,Vineet,Sikkim,Gangtok,61.00,18.00,2,Electronics,Accessories
+25940,06-01-2019,Vivek,Goa,Goa,55.00,4.00,2,Clothing,Stole
+25941,07-01-2019,Jaideep,Nagaland,Kohima,177.00,41.00,4,Clothing,Shirt
+25942,08-01-2019,Ankur,Andhra Pradesh,Hyderabad,646.00,-23.00,2,Electronics,Printers
+25943,09-01-2019,Shardul,Gujarat,Ahmedabad,48.00,20.00,4,Clothing,Stole
+25944,10-01-2019,Syed,Maharashtra,Pune,169.00,38.00,3,Clothing,Saree
+25945,11-01-2019,Mhatre,Madhya Pradesh,Indore,245.00,10.00,2,Furniture,Bookcases
+25946,12-01-2019,Saurabh,Andhra Pradesh,Hyderabad,146.00,7.00,2,Electronics,Phones
+25947,13-01-2019,Chetan,Gujarat,Ahmedabad,290.00,35.00,6,Clothing,Hankerchief
+25948,13-01-2019,Mukund,Maharashtra,Pune,152.00,23.00,3,Furniture,Furnishings
+25949,13-01-2019,Shantanu,Maharashtra,Mumbai,24.00,11.00,3,Clothing,Hankerchief
+25950,13-01-2019,Shruti,Madhya Pradesh,Indore,13.00,4.00,1,Clothing,Leggings
+25951,13-01-2019,Jesal,West Bengal,Kolkata,102.00,13.00,2,Clothing,Stole
+25952,13-01-2019,Priyanka,Madhya Pradesh,Indore,14.00,0.00,4,Clothing,Hankerchief
+25953,14-01-2019,Krutika,Andhra Pradesh,Hyderabad,22.00,-8.00,4,Clothing,Hankerchief
+25954,14-01-2019,Trupti,Gujarat,Ahmedabad,891.00,0.00,5,Clothing,Saree
+25955,16-01-2019,Soumya,Maharashtra,Pune,1716.00,309.00,7,Electronics,Accessories
+25956,17-01-2019,Shreya,Maharashtra,Mumbai,89.00,-37.00,4,Clothing,Shirt
+25957,18-01-2019,Mahima,Madhya Pradesh,Indore,147.00,73.00,3,Clothing,Stole
+25958,18-01-2019,Aparajita,West Bengal,Kolkata,105.00,25.00,2,Clothing,Hankerchief
+25959,18-01-2019,Muskan,Madhya Pradesh,Indore,252.00,56.00,2,Electronics,Phones
+25960,18-01-2019,Shreya,Andhra Pradesh,Hyderabad,171.00,-140.00,2,Furniture,Bookcases
+25961,18-01-2019,Surbhi,Gujarat,Ahmedabad,34.00,-12.00,5,Clothing,Leggings
+25962,19-01-2019,Tejeswini,Maharashtra,Pune,260.00,68.00,2,Electronics,Printers
+25963,19-01-2019,Pratiksha,Maharashtra,Mumbai,53.00,8.00,3,Furniture,Furnishings
+25964,20-01-2019,Oshin,Madhya Pradesh,Indore,199.00,0.00,4,Clothing,Stole
+25965,21-01-2019,Saloni,West Bengal,Kolkata,17.00,7.00,3,Clothing,Hankerchief
+25966,21-01-2019,Soumya,Rajasthan,Udaipur,510.00,234.00,6,Electronics,Electronic Games
+25967,21-01-2019,Komal,Uttar Pradesh,Allahabad,17.00,2.00,2,Clothing,Skirt
+25968,21-01-2019,Paromita,Punjab,Amritsar,811.00,154.00,7,Electronics,Accessories
+25969,21-01-2019,Shreyshi,Gujarat,Surat,720.00,43.00,2,Electronics,Printers
+25970,22-01-2019,Rhea,Maharashtra,Mumbai,203.00,84.00,2,Electronics,Printers
+25971,22-01-2019,Mitali,Madhya Pradesh,Indore,244.00,83.00,2,Furniture,Bookcases
+25972,23-01-2019,Jesslyn,Rajasthan,Udaipur,115.00,47.00,2,Electronics,Accessories
+25973,24-01-2019,Seema,Uttar Pradesh,Allahabad,571.00,108.00,12,Clothing,Stole
+25974,25-01-2019,Manisha,Rajasthan,Udaipur,662.00,240.00,2,Furniture,Bookcases
+25975,25-01-2019,Priyanka,Uttar Pradesh,Allahabad,29.00,2.00,3,Clothing,Skirt
+25976,25-01-2019,Piyam,Punjab,Amritsar,193.00,8.00,4,Clothing,T-shirt
+25977,27-01-2019,Aayushi,Gujarat,Surat,27.00,1.00,1,Clothing,Stole
+25978,27-01-2019,Parin,Maharashtra,Mumbai,1063.00,-175.00,4,Electronics,Electronic Games
+25979,27-01-2019,Shivangi,Madhya Pradesh,Indore,560.00,44.00,3,Clothing,Saree
+25980,27-01-2019,Shweta,Rajasthan,Udaipur,22.00,11.00,3,Clothing,Kurti
+25981,28-01-2019,Amruta,Delhi,Delhi,42.00,13.00,3,Clothing,Leggings
+25982,29-01-2019,Hemangi,Delhi,Delhi,13.00,3.00,1,Clothing,Leggings
+25983,30-01-2019,Atul,Delhi,Delhi,230.00,5.00,2,Clothing,Saree
+25984,30-01-2019,Kajal,Delhi,Delhi,304.00,97.00,6,Clothing,Stole
+25985,31-01-2019,Ginny,Madhya Pradesh,Indore,197.00,20.00,4,Clothing,Kurti
+25986,31-01-2019,Shweta,Rajasthan,Udaipur,749.00,307.00,7,Furniture,Furnishings
+25987,31-01-2019,Manjiri,Delhi,Delhi,299.00,0.00,6,Clothing,Stole
+25988,31-01-2019,Nirja,Delhi,Delhi,79.00,24.00,9,Clothing,Skirt
+25989,01-02-2019,Anjali,Delhi,Delhi,44.00,14.00,3,Clothing,Hankerchief
+25990,02-02-2019,Mugdha,Delhi,Delhi,71.00,32.00,3,Clothing,Saree
+25991,03-02-2019,Mansi,Madhya Pradesh,Indore,188.00,13.00,7,Clothing,Shirt
+25992,03-02-2019,Gaurav,Rajasthan,Udaipur,141.00,41.00,3,Clothing,Shirt
+25993,03-02-2019,Harshal,Delhi,Delhi,44.00,8.00,2,Clothing,Stole
+25994,03-02-2019,Omkar,Delhi,Delhi,196.00,-7.00,5,Electronics,Phones
+25995,04-02-2019,Yohann,Delhi,Delhi,1314.00,342.00,3,Furniture,Bookcases
+25996,04-02-2019,Prashant,Delhi,Delhi,62.00,6.00,6,Clothing,Skirt
+25997,04-02-2019,Yogesh,Madhya Pradesh,Indore,16.00,6.00,3,Clothing,Hankerchief
+25998,04-02-2019,Anmol,Rajasthan,Udaipur,50.00,-28.00,5,Furniture,Furnishings
+25999,05-02-2019,Diwakar,Delhi,Delhi,26.00,-17.00,1,Clothing,Stole
+26000,06-02-2019,Shubham,Delhi,Delhi,43.00,9.00,4,Clothing,Skirt
+26001,07-02-2019,Patil,Delhi,Delhi,13.00,0.00,2,Clothing,Hankerchief
+26002,08-02-2019,Harsh,Delhi,Delhi,80.00,22.00,3,Clothing,Stole
+26003,08-02-2019,Hitesh,Madhya Pradesh,Bhopal,315.00,-8.00,3,Furniture,Chairs
+26004,08-02-2019,Nandita,Rajasthan,Jaipur,147.00,44.00,3,Clothing,Saree
+26005,08-02-2019,Parnavi,West Bengal,Kolkata,87.00,10.00,3,Clothing,Stole
+26006,09-02-2019,Arpita,Karnataka,Bangalore,1301.00,573.00,5,Electronics,Accessories
+26007,09-02-2019,Shubham,Jammu and Kashmir,Kashmir,311.00,72.00,2,Furniture,Bookcases
+26008,09-02-2019,Kalyani,Tamil Nadu,Chennai,22.00,4.00,1,Clothing,Stole
+26009,10-02-2019,Komal,Uttar Pradesh,Lucknow,285.00,128.00,2,Electronics,Printers
+26010,11-02-2019,Kartikay,Bihar,Patna,527.00,26.00,3,Electronics,Electronic Games
+26011,12-02-2019,Bharat,Gujarat,Ahmedabad,93.00,44.00,2,Clothing,Stole
+26012,13-02-2019,Pearl,Maharashtra,Pune,21.00,8.00,2,Clothing,Saree
+26013,13-02-2019,Jahan,Madhya Pradesh,Bhopal,29.00,10.00,3,Clothing,Skirt
+26014,13-02-2019,Divsha,Rajasthan,Jaipur,406.00,97.00,7,Furniture,Chairs
+26015,14-02-2019,Kasheen,West Bengal,Kolkata,128.00,55.00,1,Clothing,Saree
+26016,14-02-2019,Hazel,Karnataka,Bangalore,74.00,9.00,3,Clothing,Shirt
+26017,14-02-2019,Sonakshi,Jammu and Kashmir,Kashmir,78.00,7.00,1,Furniture,Chairs
+26018,14-02-2019,Aarushi,Tamil Nadu,Chennai,326.00,107.00,3,Furniture,Furnishings
+26019,15-02-2019,Jitesh,Uttar Pradesh,Lucknow,585.00,175.00,13,Clothing,T-shirt
+26020,16-02-2019,Yogesh,Bihar,Patna,319.00,102.00,6,Electronics,Accessories
+26021,17-02-2019,Anita,Kerala ,Thiruvananthapuram,122.00,59.00,7,Furniture,Furnishings
+26022,18-02-2019,Shrichand,Punjab,Chandigarh,1824.00,-1303.00,8,Electronics,Phones
+26023,19-02-2019,Mukesh,Haryana,Chandigarh,1117.00,447.00,10,Furniture,Bookcases
+26024,19-02-2019,Vandana,Himachal Pradesh,Simla,168.00,18.00,6,Clothing,Stole
+26025,19-02-2019,Bhavna,Sikkim,Gangtok,155.00,5.00,3,Clothing,Stole
+26026,19-02-2019,Kanak,Goa,Goa,255.00,76.00,9,Clothing,Hankerchief
+26027,20-02-2019,Sagar,Nagaland,Kohima,54.00,8.00,4,Clothing,T-shirt
+26028,20-02-2019,Manju,Andhra Pradesh,Hyderabad,77.00,36.00,2,Clothing,Shirt
+26029,20-02-2019,Ramesh,Gujarat,Ahmedabad,21.00,10.00,1,Clothing,T-shirt
+26030,21-02-2019,Sarita,Maharashtra,Pune,92.00,5.00,6,Clothing,Hankerchief
+26031,22-02-2019,Deepak,Madhya Pradesh,Bhopal,67.00,9.00,4,Clothing,Leggings
+26032,22-02-2019,Monisha,Rajasthan,Jaipur,47.00,15.00,5,Clothing,Saree
+26033,22-02-2019,Atharv,West Bengal,Kolkata,774.00,170.00,3,Electronics,Accessories
+26034,23-02-2019,Vini,Karnataka,Bangalore,425.00,183.00,5,Electronics,Accessories
+26035,23-02-2019,Pinky,Jammu and Kashmir,Kashmir,291.00,119.00,11,Clothing,Saree
+26036,23-02-2019,Bhishm,Maharashtra,Mumbai,341.00,44.00,7,Furniture,Furnishings
+26037,23-02-2019,Hitika,Madhya Pradesh,Indore,171.00,68.00,7,Clothing,Stole
+26038,24-02-2019,Pooja,Bihar,Patna,41.00,19.00,2,Clothing,T-shirt
+26039,25-02-2019,Hemant,Kerala ,Thiruvananthapuram,83.00,34.00,5,Clothing,Shirt
+26040,26-02-2019,Sahil,Punjab,Chandigarh,38.00,9.00,2,Clothing,Stole
+26041,27-02-2019,Ritu,Haryana,Chandigarh,176.00,-28.00,5,Furniture,Furnishings
+26042,28-02-2019,Manish,Himachal Pradesh,Simla,36.00,15.00,3,Clothing,Stole
+26043,01-03-2019,Amit,Sikkim,Gangtok,185.00,48.00,4,Clothing,Stole
+26044,02-03-2019,Sanjay,Goa,Goa,28.00,10.00,3,Clothing,Skirt
+26045,03-03-2019,Nidhi,Nagaland,Kohima,302.00,75.00,6,Furniture,Furnishings
+26046,04-03-2019,Nishi,Maharashtra,Mumbai,32.00,3.00,8,Clothing,Hankerchief
+26047,04-03-2019,Ashmi,Madhya Pradesh,Indore,55.00,12.00,5,Clothing,Skirt
+26048,04-03-2019,Parth,Maharashtra,Pune,163.00,81.00,2,Electronics,Accessories
+26049,05-03-2019,Lisha,Madhya Pradesh,Bhopal,100.00,28.00,2,Clothing,Hankerchief
+26050,06-03-2019,Paridhi,Rajasthan,Jaipur,325.00,32.00,7,Clothing,T-shirt
+26051,07-03-2019,Parishi,West Bengal,Kolkata,184.00,85.00,6,Clothing,T-shirt
+26052,08-03-2019,Ajay,Karnataka,Bangalore,78.00,28.00,6,Clothing,Kurti
+26053,09-03-2019,Kirti,Jammu and Kashmir,Kashmir,17.00,1.00,2,Clothing,Skirt
+26054,10-03-2019,Mayank,Maharashtra,Mumbai,246.00,98.00,5,Clothing,Hankerchief
+26055,10-03-2019,Yaanvi,Madhya Pradesh,Indore,227.00,48.00,5,Clothing,Stole
+26056,10-03-2019,Sonal,Bihar,Patna,70.00,24.00,3,Clothing,Stole
+26057,10-03-2019,Sharda,Kerala ,Thiruvananthapuram,736.00,346.00,5,Electronics,Printers
+26058,11-03-2019,Aditya,Punjab,Chandigarh,212.00,97.00,7,Clothing,Hankerchief
+26059,12-03-2019,Rachna,Haryana,Chandigarh,20.00,6.00,1,Clothing,T-shirt
+26060,13-03-2019,Chirag,Maharashtra,Mumbai,382.00,68.00,3,Clothing,Saree
+26061,14-03-2019,Anurag,Madhya Pradesh,Indore,508.00,203.00,2,Electronics,Accessories
+26062,15-03-2019,Tushina,Goa,Goa,44.00,-40.00,3,Clothing,Stole
+26063,15-03-2019,Farah,Nagaland,Kohima,241.00,-77.00,4,Electronics,Electronic Games
+26064,16-03-2019,Ankita,Maharashtra,Mumbai,75.00,2.00,5,Clothing,Leggings
+26065,16-03-2019,Nida,Madhya Pradesh,Indore,146.00,19.00,5,Clothing,Stole
+26066,16-03-2019,Priyanka,Maharashtra,Pune,86.00,22.00,2,Clothing,Saree
+26067,16-03-2019,Tulika,Madhya Pradesh,Bhopal,618.00,27.00,4,Furniture,Bookcases
+26068,16-03-2019,Shefali,Rajasthan,Jaipur,193.00,33.00,5,Electronics,Accessories
+26069,17-03-2019,Sanskriti,West Bengal,Kolkata,55.00,18.00,2,Clothing,Kurti
+26070,18-03-2019,Shruti,Karnataka,Bangalore,54.00,12.00,4,Clothing,Shirt
+26071,19-03-2019,Subhashree,Jammu and Kashmir,Kashmir,21.00,4.00,3,Clothing,Hankerchief
+26072,20-03-2019,Sweta,Maharashtra,Mumbai,313.00,44.00,3,Electronics,Electronic Games
+26073,21-03-2019,Pournamasi,Madhya Pradesh,Indore,37.00,17.00,3,Clothing,Hankerchief
+26074,21-03-2019,Bharat,Gujarat,Ahmedabad,57.00,21.00,4,Clothing,Leggings
+26075,21-03-2019,Pearl,Maharashtra,Pune,34.00,12.00,2,Clothing,Stole
+26076,21-03-2019,Jahan,Madhya Pradesh,Bhopal,91.00,22.00,2,Clothing,Stole
+26077,22-03-2019,Divsha,Rajasthan,Jaipur,62.00,11.00,7,Clothing,Hankerchief
+26078,22-03-2019,Kasheen,West Bengal,Kolkata,17.00,8.00,2,Clothing,Skirt
+26079,22-03-2019,Hazel,Karnataka,Bangalore,18.00,3.00,2,Clothing,Hankerchief
+26080,22-03-2019,Sonakshi,Jammu and Kashmir,Kashmir,109.00,35.00,6,Clothing,T-shirt
+26081,22-03-2019,Aarushi,Tamil Nadu,Chennai,359.00,-338.00,5,Furniture,Bookcases
+26082,23-03-2019,Jitesh,Uttar Pradesh,Lucknow,95.00,5.00,2,Clothing,Stole
+26083,24-03-2019,Yogesh,Bihar,Patna,43.00,8.00,3,Clothing,Leggings
+26084,25-03-2019,Anita,Kerala ,Thiruvananthapuram,209.00,-63.00,4,Electronics,Electronic Games
+26085,26-03-2019,Shrichand,Punjab,Chandigarh,86.00,22.00,2,Clothing,Saree
+26086,26-03-2019,Mukesh,Haryana,Chandigarh,43.00,17.00,2,Clothing,T-shirt
+26087,26-03-2019,Vandana,Himachal Pradesh,Simla,119.00,56.00,7,Clothing,Saree
+26088,26-03-2019,Bhavna,Sikkim,Gangtok,11.00,5.00,2,Clothing,Hankerchief
+26089,26-03-2019,Kanak,Goa,Goa,59.00,24.00,6,Clothing,Kurti
+26090,27-03-2019,Sagar,Nagaland,Kohima,80.00,22.00,3,Clothing,Stole
+26091,27-03-2019,Manju,Andhra Pradesh,Hyderabad,158.00,69.00,3,Clothing,Stole
+26092,27-03-2019,Ramesh,Gujarat,Ahmedabad,97.00,14.00,2,Clothing,T-shirt
+26093,27-03-2019,Sarita,Maharashtra,Pune,33.00,-1.00,1,Clothing,Saree
+26094,27-03-2019,Deepak,Madhya Pradesh,Bhopal,152.00,50.00,6,Clothing,Stole
+26095,28-03-2019,Monisha,Rajasthan,Jaipur,6.00,1.00,1,Clothing,Kurti
+26096,28-03-2019,Atharv,West Bengal,Kolkata,45.00,9.00,3,Clothing,Leggings
+26097,28-03-2019,Vini,Karnataka,Bangalore,97.00,12.00,2,Clothing,Hankerchief
+26098,29-03-2019,Pinky,Jammu and Kashmir,Kashmir,82.00,8.00,3,Electronics,Accessories
+26099,30-03-2019,Bhishm,Maharashtra,Mumbai,9.00,3.00,1,Clothing,Skirt
+26100,31-03-2019,Hitika,Madhya Pradesh,Indore,828.00,230.00,2,Furniture,Chairs
